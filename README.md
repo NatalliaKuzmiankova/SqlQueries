@@ -4,8 +4,8 @@
 
 * https://github.com/NatalliaKuzmiankova/SqlQueries/tree/main/Sql
   
-  * SqlQueries.cql
-  * hogwarts_characters.cql
-  * hogwarts_library.cql
+  * SqlQueries.sql
+  * hogwarts_characters.sql
+  * hogwarts_library.sql
   * sqltask1.docx
   * sqltask2.docx
